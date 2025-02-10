@@ -4,4 +4,4 @@ opt.sh --- This script is for optimizing lightweight Linux, terminating unnecess
 
 ows.sh
 
-cnc.sh --- script for check net connect, internet availability check, local and external IP address, network interface, gateway info, DNS server, ping speed check
+cnc.sh --- script for Internet availability check, local and external IP address, network interface, gateway info, DNS server, ping speed check, devices connected to the network, user traffic analysis
